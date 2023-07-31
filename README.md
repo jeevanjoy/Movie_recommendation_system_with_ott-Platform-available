@@ -12,4 +12,5 @@ List of movies in 2023
 
 Please do ⭐ the repository, if it helped you in anyway.
    # Screenshots
-   ![Screenshot 2023-07-14 095539](https://github.com/jeevanjoy/Movie_recommendation_system_with_ott-Platform-available/assets/84787553/4ee190c7-fb7e-4313-89ae-8c48808d4d6f)
+  ![Screenshot 2023-07-14 095539](https://github.com/jeevanjoy/Movie_recommendation_system_with_ott-Platform-available/assets/84787553/c98f25fc-d708-4323-89cf-39f8aa74f1d2)
+
